@@ -1,1 +1,1 @@
-<p align="left"><img width=15%" src="https://github.com/JohnDoe287/JohnDoe287/raw/main/banner.gif" alt="lang image here" /></p>
+<p align="left"><img width=15%" src="https://raw.githubusercontent.com/JohnDoe287/JohnDoe287/main/githubannerfial.gif" alt="lang image here" /></p>
