@@ -58,7 +58,7 @@ Welcome to my GitHub Page. I am John Doe, a student. I learn new things about pr
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+    <img alt="JohnDoe287's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JohnDoe287&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-stats">
     <img alt="JohnDoe287's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe287&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
@@ -78,16 +78,3 @@ Welcome to my GitHub Page. I am John Doe, a student. I learn new things about pr
   <br/>
   <img src="https://komarev.com/ghpvc/?username=JohnDoe287&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </details>
-
-<details>
-  <summary>Wakatime Stats ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@JohnDoe287/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png" alt="Wakatime Stats">
-  <br/>
-  <img src="https://wakatime.com/share/@JohnDoe287/b43da924-55df-4315-897d-e4dd9fb798f9.png" alt="Wakatime Languages">
-</details>
-
-## GitHub Profile Trophy 🏆
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=JohnDoe287&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
