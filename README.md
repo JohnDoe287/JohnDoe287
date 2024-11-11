@@ -41,7 +41,6 @@ Welcome to my GitHub Page. I am John Doe, a student. I learn new things about pr
 
 ## GitHub Stats 📊
 
-<summary>GitHub Profile Stats 💻</summary>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="JohnDoe287's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JohnDoe287&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
@@ -50,12 +49,10 @@ Welcome to my GitHub Page. I am John Doe, a student. I learn new things about pr
   <img alt="JohnDoe287's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe287&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
 </a>
 
-<summary>Activity Graph 📈</summary>
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDoe287&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"/>
 </a>
 
-<summary>Profile Views 👁️</summary>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=JohnDoe287&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views">
