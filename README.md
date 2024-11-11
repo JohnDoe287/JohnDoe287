@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JohnDoe287/JohnDoe287/main/githubannerfial.gif" alt="lang image here" style="width: 100%; border-radius: 20px;" />
-</p>
-
-
-
-<div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/bo2k168kb/">
-    <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
-
 <p align="justify">
 Welcome to my GitHub Page. I am John Doe, a student. I learn new things about programming and teach them to others. I have been programming for more than 2 years, working with various languages and technologies.
 </p>
