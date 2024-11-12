@@ -1,23 +1,30 @@
 <h1 align="center">🪐 Welcome To My Profile ☄️</h1>
 <img src="https://user-images.githubusercontent.com/69421356/175442177-0f05ce78-31a5-44db-a7e3-603f7e96050a.png">
 
-```javascript
-export default class Client {
-    constructor() {
-        this.Description = "A friendly developper who like ethickal hacking",
-        this.MostUsedLangs = ["Python", "Php", "Rust", "C", "Go", "Perl", "NodeJS"],
-        this.Tools = ["netdata", "iptables", "pfsense", "grafana"],
-        this.Servers = ["openresty", "mariadb", "mongodb", "redis", "caddy"]
-    }
-}
+```python
+class Client(JohnDoe287):
+    def __init__(self) -> None:
+        self.description = "A guy who likes computers"
+        self.most_used_langs = ["Python", "NodeJS"]
+        
+    @staticmethod
+    async def contact() -> None:
+        telegram = "https://t.me/terek3"
+        discord = "https://discord.com/users/1221728197390106657"
+
+    @staticmethod
+    async def life() -> None:
+        age = None
+        langs = ['French', 'English', 'Russian', 'Poland']
+        return langs, age
+
+    @staticmethod
+    async def coding() -> None:
+        learning = "python, javascript"
+        specialities = 'automation'
+        environment = 'vscode'
+        return learning, specialities, environment
 ```
-<h3 align="center">⚖️ Last Post</h3>
-
-<a href="https://github.com/Inplex-sys/exodus-privacy-report">
-    <img src="https://github.com/user-attachments/assets/8fdec480-fef2-4744-8b4b-b7f78e285c68"/>
-</a>
-
-<div align="center"><a href="https://github.com/Inplex-sys/exodus-privacy-report">Learn How Exodus Centralized Servers Can Be A Danger</a></div>
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
