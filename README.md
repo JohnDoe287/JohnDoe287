@@ -15,7 +15,7 @@ class Client(JohnDoe287):
     @staticmethod
     async def life() -> None:
         age = None
-        langs = ['French', 'English', 'Russian', 'Poland']
+        langs = ['French', 'English', 'Russian']
         return langs, age
 
     @staticmethod
