@@ -43,8 +43,8 @@ export default class Client {
     <br>
     <p>
         <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/1df44418-23d8-43e1-8988-ae55f3d98b0b"/>
-        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">The Reverse Lab</a></h3>
-        <h4>A repo that contains malwares that have been reversed, and investigations about malicious organizations.</h4>
+        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">Elipse Stealer</a></h3>
+        <h4>Eclipse is a python stealer targeting windows operating system's, based on asynchronous module, with advanced features !</h4>
     </p>
     <hr>
 <br><br>
