@@ -89,9 +89,9 @@ export default class Client {
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
-
 <p align="center">
-    <a href="https://discord.com/users/1221728197390106657">
-        <img align="center" src="https://lanyard.cnrad.dev/api/1221728197390106657">
+    <a href="https://t.me/eclipsemalware">
+      <img align="center" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
 </p>
+
