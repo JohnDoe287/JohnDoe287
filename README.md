@@ -50,7 +50,7 @@ class Client(JohnDoe287):
     <br>
     <p>
         <img width="100" align="left" src="https://github.com/Inplex-sys/inplex-sys/assets/69421356/1df44418-23d8-43e1-8988-ae55f3d98b0b"/>
-        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">Elipse Stealer</a></h3>
+        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">Eclipse Stealer</a></h3>
         <h4>Eclipse is a python stealer targeting windows operating system's, based on asynchronous module, with advanced features !</h4>
     </p>
     <hr>
