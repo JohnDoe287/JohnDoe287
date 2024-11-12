@@ -9,8 +9,8 @@ class Client(JohnDoe287):
         
     @staticmethod
     async def contact() -> None:
-        telegram = "https://t.me/terek3"
-        discord = "https://discord.com/users/1221728197390106657"
+        telegram = "@terek3"
+        discord = "@itchkerie"
 
     @staticmethod
     async def life() -> None:
