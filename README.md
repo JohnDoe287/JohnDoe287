@@ -45,7 +45,7 @@ class Client(JohnDoe287):
 <div>
     <p>
         <img width="100" align="left" src="https://github.com/JohnDoe287/JohnDoe287/blob/main/photo_2024-11-11_13-09-29.jpg"/>
-        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">Eclipse Stealer</a></h3>
+        <h3><a href="https://github.com/JohnDoe287/Eclipse-Stealer">Eclipse Stealer</a></h3>
         <h4>Eclipse is a python stealer targeting windows operating system's, based on asynchronous module, with advanced features !</h4>
     </p>
 </div>
