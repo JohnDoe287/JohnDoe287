@@ -36,12 +36,12 @@ class Client(JohnDoe287):
 <br><br>
 <br><br>
 <br><br>
+<br><br>
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
-<br>
 <div>
     <p>
         <img width="100" align="left" src="https://github.com/JohnDoe287/JohnDoe287/blob/main/photo_2024-11-11_13-09-29.jpg"/>
