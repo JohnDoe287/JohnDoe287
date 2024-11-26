@@ -35,6 +35,8 @@ class Client(JohnDoe287):
 
 <br><br>
 <br><br>
+<br><br>
+<br><br>
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
@@ -43,12 +45,14 @@ class Client(JohnDoe287):
 <div>
     <br>
     <br>
+    <br>
     <p>
         <img width="100" align="left" src="https://github.com/JohnDoe287/JohnDoe287/blob/main/photo_2024-11-11_13-09-29.jpg"/>
         <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">Eclipse Stealer</a></h3>
         <h4>Eclipse is a python stealer targeting windows operating system's, based on asynchronous module, with advanced features !</h4>
     </p>
     <hr>
+<br><br>
 <br><br>
 
 <h3 align="center">📞 Contact</h3>
