@@ -4,12 +4,11 @@
 class Client(JohnDoe287):
     def __init__(self) -> None:
         self.description = "A guy who likes computers"
-        self.most_used_langs = ["Python", "NodeJS"]
+        self.most_used_langs = ["Python"]
         
     @staticmethod
     async def contact() -> None:
         telegram = "@terek3"
-        discord = "@itchkerie"
 
     @staticmethod
     async def life() -> None:
@@ -19,7 +18,7 @@ class Client(JohnDoe287):
 
     @staticmethod
     async def coding() -> None:
-        learning = "python, javascript"
+        learning = "python"
         specialities = 'automation'
         environment = 'vscode'
         return learning, specialities, environment
@@ -36,8 +35,6 @@ class Client(JohnDoe287):
 
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
@@ -46,14 +43,12 @@ class Client(JohnDoe287):
 <div>
     <br>
     <br>
-    <br>
     <p>
         <img width="100" align="left" src="https://github.com/JohnDoe287/JohnDoe287/blob/main/photo_2024-11-11_13-09-29.jpg"/>
         <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">Eclipse Stealer</a></h3>
         <h4>Eclipse is a python stealer targeting windows operating system's, based on asynchronous module, with advanced features !</h4>
     </p>
     <hr>
-<br><br>
 <br><br>
 
 <h3 align="center">📞 Contact</h3>
