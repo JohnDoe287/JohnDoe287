@@ -35,6 +35,7 @@ class Client(JohnDoe287):
 
 <br><br>
 <br><br>
+<br><br>
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
